@@ -1,8 +1,12 @@
 # ReactNative-Week05
 BÀI TẬP THỰC HÀNH MÔN LẬP TRÌNH THIẾT BỊ DI ĐỘNG
+
 MSSV: 20001545
+
 Họ tên: Dương Tuấn Kiệt
+
 Lớp: DHKTPM16A_N3_T2_4-6
+
 Link tài liệu: https://drive.google.com/drive/folders/120USFNFJAefQ1_h9UrPe1nyHqlgQXkUe?usp=sharing
 
 1. Bài Tập JS:
